@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Arr2CmdArgsCommonsCli:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="de9af44f-d963-4951-804e-d356db7c5e76" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="1SvBluYwH7FMQCOVVHEGxiLaqAR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main (--window).executor": "Run",
+    "Application.Main (-h).executor": "Run",
+    "Application.Main (-i 111.txt -r).executor": "Debug",
+    "Application.Main(-d).executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "H:/Java прога/10",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Task\Arr2CmdArgsCommonsCli\src\ru\vsu\cs\util" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main(-d)">
+    <configuration name="Main (--window)" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ru.vsu.cs.course1.Program" />
+      <module name="Task8" />
+      <option name="PROGRAM_PARAMETERS" value="--window" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (-c --input-file=222.txt)" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ru.vsu.cs.course1.Program" />
+      <module name="Task8" />
+      <option name="PROGRAM_PARAMETERS" value="-c --input-file=222.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (-h)" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ru.vsu.cs.course1.Program" />
+      <module name="Task8" />
+      <option name="PROGRAM_PARAMETERS" value="-h" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (-i 111.txt -r)" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ru.vsu.cs.course1.Program" />
+      <module name="Task8" />
+      <option name="PROGRAM_PARAMETERS" value="-i 111.txt -r" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main(-d)" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ru.vsu.cs.course1.Program" />
+      <module name="Task8" />
+      <option name="PROGRAM_PARAMETERS" value="--calc-d -i input01.txt -o POBEDA.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main (--window)" />
+      <item itemvalue="Application.Main (-c --input-file=222.txt)" />
+      <item itemvalue="Application.Main (-h)" />
+      <item itemvalue="Application.Main (-i 111.txt -r)" />
+      <item itemvalue="Application.Main(-d)" />
+    </list>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-1.8.0_402-semeru-1.8.0_402-e1d2075fd9a7-1753c4ba" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de9af44f-d963-4951-804e-d356db7c5e76" name="Default Changelist" comment="" />
+      <created>1572215785802</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572215785802</updated>
+      <workItem from="1701858653524" duration="88000" />
+      <workItem from="1701879132073" duration="6043000" />
+      <workItem from="1702281422065" duration="16000" />
+      <workItem from="1702406084316" duration="3548000" />
+      <workItem from="1702451924076" duration="639000" />
+      <workItem from="1702453045681" duration="575000" />
+      <workItem from="1702454868767" duration="305000" />
+      <workItem from="1702455578246" duration="103000" />
+      <workItem from="1702660912780" duration="1000" />
+      <workItem from="1703058997044" duration="111000" />
+      <workItem from="1703059896435" duration="469000" />
+      <workItem from="1703060705192" duration="794000" />
+      <workItem from="1703061712452" duration="11000" />
+      <workItem from="1703061733055" duration="3955000" />
+      <workItem from="1703181047697" duration="1054000" />
+      <workItem from="1703320487502" duration="4316000" />
+      <workItem from="1704473878168" duration="914000" />
+      <workItem from="1704565911163" duration="10000" />
+      <workItem from="1704735768848" duration="4000" />
+      <workItem from="1704735855943" duration="12000" />
+      <workItem from="1704736627263" duration="599000" />
+      <workItem from="1704810756566" duration="9000" />
+      <workItem from="1705047092907" duration="38000" />
+      <workItem from="1705085087876" duration="3390000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/FirstSwing$Main.ic" NAME="Main Coverage Results" MODIFIED="1572217616124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

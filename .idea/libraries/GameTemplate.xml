@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="GameTemplate">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/13/out/artifacts/Game2048_jar/GameTemplate.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

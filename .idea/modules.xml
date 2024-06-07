@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/10/10.iml" filepath="$PROJECT_DIR$/10/10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11/11.iml" filepath="$PROJECT_DIR$/11/11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12/12.iml" filepath="$PROJECT_DIR$/12/12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13/13.iml" filepath="$PROJECT_DIR$/13/13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8/8.iml" filepath="$PROJECT_DIR$/8/8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9/9.iml" filepath="$PROJECT_DIR$/9/9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java прога.iml" filepath="$PROJECT_DIR$/.idea/Java прога.iml" />
+      <module fileurl="file://$PROJECT_DIR$/task1_2/task1_2.Main.iml" filepath="$PROJECT_DIR$/task1_2/task1_2.Main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/task2_2/task2_2.iml" filepath="$PROJECT_DIR$/task2_2/task2_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/task2_4/task2_4.iml" filepath="$PROJECT_DIR$/task2_4/task2_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
+    </modules>
+  </component>
+</project>
